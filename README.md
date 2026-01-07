@@ -1,5 +1,6 @@
 <h1 align="center">Hey there! I'm Zainab Asif 👋</h1>
 <h3 align="center">Aspiring Software Engineer </h3>
+<img align="right" src="Computer login-amico.png" width="300" /> 
 
 ---
 
