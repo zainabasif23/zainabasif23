@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Zainab Asif 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Data Analyst</h3>
+<h3 align="center">Aspiring Software Engineer </h3>
 
 ---
 
