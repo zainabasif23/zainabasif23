@@ -14,6 +14,7 @@
 
 ## 💻 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-red)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black)
@@ -35,5 +36,5 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/zainab-asif-14221a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+- 💼 LinkedIn: www.linkedin.com/in/zainab-asif-14221a253 
 - 📧 Email: zainabasif2303@gmail.com
